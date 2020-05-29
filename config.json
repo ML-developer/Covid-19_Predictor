@@ -1,1 +1,5 @@
-
+{
+    "subscription_id": "413dc411-db88-4292-b3a0-4bbf10eff75e",
+    "resource_group": "Covid-19_Predictor",
+    "workspace_name": "Covid19_Predictor_Workspace"
+}
